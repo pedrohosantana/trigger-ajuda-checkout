@@ -5,6 +5,7 @@ Visitar pagina de edição de Checkout: https://minhaloja.myvtex.com/admin/porta
 !Importante > Copie todo o conteudo deste arquivo ANTES DE ALTERÁ-LO e salve em um TXT com o nome de checkout-header (para efeitos de backup)
 
 Inserir o seguinte codigo HTML em seu arquivo: checkout-header
+
 Obs: Trocar os termos: 
 - URL_IMAGEM_40x50 : Url de uma imagem de chat, ex: https://shopinfo.vteximg.com.br/arquivos/icone-ajuda-checkout.png
 ```HTML
